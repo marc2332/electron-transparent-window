@@ -1,0 +1,11 @@
+{
+	"name": "electron-transparent-window",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"dependencies": {
+		"electron": "^9.1.0"
+	}
+}
