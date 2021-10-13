@@ -6,7 +6,7 @@
 		"start": "electron ."
 	},
 	"dependencies": {
-		"electron": "^9.4.0",
+		"electron": "^11.5.0",
 		"electron-acrylic-window": "^0.2.2"
 	}
 }
